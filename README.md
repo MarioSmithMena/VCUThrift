@@ -1,0 +1,3 @@
+# VCUThrift
+
+First website built.
